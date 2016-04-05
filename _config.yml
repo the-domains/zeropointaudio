@@ -6,10 +6,10 @@ color:
     - '#888888'
     - '#000000'
     - '#000000'
-  brandStrength: 0.6380686875724927
-  lightness: 0.5401262431079834
-  rhythmicContrast: 0.12555366311304306
-  saturation: 0.6408146220226875
+  brandStrength: 0.638068
+  lightness: 0.493243
+  rhythmicContrast: 0.125553
+  saturation: 0.022804
 cta: {}
 layout_spectrum: 0.244932
 name: zeropointaudio
