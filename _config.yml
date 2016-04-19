@@ -1,4 +1,20 @@
-analytics: {}
+name: zeropointaudio
+favicon: null
+layout_spectrum: 0.244932
+typography_spectrum: 0.219595
+title: Zero Point Audio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0C0C0'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.638068
   lightness: 0.493243
-  rhythmicContrast: 0.125553
   saturation: 0.022804
-cta: {}
-layout_spectrum: 0.244932
-name: zeropointaudio
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.219595
+  rhythmicContrast: 0.125553
+purpose:
+  - name: null
+    item: null
+    url: null
